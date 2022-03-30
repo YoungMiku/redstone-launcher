@@ -15,9 +15,7 @@ yarn electron:serve
 ### Compiles and minifies for production
 ```
 yarn electron:build
-```![image](https://user-images.githubusercontent.com/26093662/160794696-ab19470e-cdbf-4a0d-8f8c-2d2e10d490fb.png)![image](https://user-images.githubusercontent.com/26093662/160794763-35a9e4c9-6313-4e75-b8c8-6f50693af0b7.png)
-
-
+```
 
 ### Lints and fixes files
 ```
