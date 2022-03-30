@@ -13,6 +13,15 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+
+/data/*
+!/data/.gitkeep
+yarn-error.log
+.vs
+public/assets/*.js
+public/assets/*.json
+public/assets/css
+public/assets/js
 # Editor directories and files
 .idea
 .vscode
@@ -21,3 +30,6 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+#Electron-builder output
+/dist_electron
